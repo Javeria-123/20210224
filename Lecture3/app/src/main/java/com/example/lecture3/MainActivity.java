@@ -26,4 +26,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(Intent.ACTION_DIAL,uri);
         startActivity(intent);
     }
+
+    public void back(View view) {
+        Intent intent=new Intent(this,MainActivity2.class);
+        startActivity(intent);
+    }
 }
