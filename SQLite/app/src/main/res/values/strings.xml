@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <string name="Age">Please Enter age</string>
+    <string name="Name">Please Enter Name</string>
+    <string name="IsActive">Acuve or Not</string>
+    <string name="buttonAdd">Add Record</string>
+    <string name="buttonView">View Record</string>
+</resources>
